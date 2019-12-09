@@ -1,0 +1,6 @@
+Autor: Stevyn Poveda
+Fecha: 09/12/2019
+
+Este sistema es para prestar como tesis en ISTLCG para un amigo.
+No es para uso de empresa,
+es un sistema muy bascio de un sistema de lector de barra
